@@ -35,7 +35,7 @@ export default class _Document extends Document {
             href="/favicon/safari-pinned-tab.svg"
             color="#000000"
           />
-          <meta name="msapplication-TileColor" content="#000000" />
+          <meta name="msapplication-TileColor" content="#808080" />
           <meta name="theme-color" content="#ffffff" />
         </Head>
         <body>
